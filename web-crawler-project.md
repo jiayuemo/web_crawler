@@ -30,7 +30,7 @@ For the purposes of this project, we define the Internet as the test data in thi
     },
     {
       "address":"http://foo.bar.com/p2",
-      "links": ["http://foo.bar.com/p2", "http://<foo class="bar"></foo>.com/p4"]
+      "links": ["http://foo.bar.com/p2", "http://foo.bar.com/p4"]
     },
     {
       "address":"http://foo.bar.com/p4",
